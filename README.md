@@ -13,7 +13,7 @@
 ###
 ## **Competitive Programming Stats** 
 
-<a href="https://www.codechef.com/users/pandeyanubhav9"> ![Codechef](https://cp-logo.vercel.app/codechef/pandeyanubhav9)</a>  <a href="https://codeforces.com/profile/Anubhav_Pandey"> ![Codeforces](https://cp-logo.vercel.app/codeforces/Anubhav_Pandey)</a> <a href="https://atcoder.jp/users/Anubhav_Pandey"> ![AtCoder](https://cp-logo.vercel.app/atcoder/Anubhav_Pandey)</a> <a href="https://leetcode.com/pandeyanubhav271/"> ![Leetcode](https://cp-logo.vercel.app/leetcode/pandeyanubhav271)</a>
+<a href="https://www.codechef.com/users/pandeyanubhav9"> ![Codechef](https://cp-logo.vercel.app/codechef/anubhavpandeyy)</a>  <a href="https://codeforces.com/profile/Anubhav_Pandey"> ![Codeforces](https://cp-logo.vercel.app/codeforces/Anubhav_Pandey)</a> <a href="https://atcoder.jp/users/Anubhav_Pandey"> ![AtCoder](https://cp-logo.vercel.app/atcoder/Anubhav_Pandey)</a> <a href="https://leetcode.com/pandeyanubhav271/"> ![Leetcode](https://cp-logo.vercel.app/leetcode/pandeyanubhav271)</a>
 
 
 ###
