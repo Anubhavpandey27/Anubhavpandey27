@@ -72,6 +72,6 @@
 
 <img src="https://raw.githubusercontent.com/anubhavpandey27/anubhavpandey27/output/snake.svg" alt="Snake animation" />
 <h2 align="left">Achievements 🏆</h2>
-<p align = "center"> <img src="https://github-profile-trophy.vercel.app/?username=anubhavpandey27&theme=darkhub" alt="harshjohar" /> </p>
+<p align = "center"> <img src="https://github-profile-trophy.vercel.app/?username=anubhavpandey27&theme=darkhub" alt="anubhavpandey" /> </p>
 
 ###
